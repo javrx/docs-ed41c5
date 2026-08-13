@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-38mk82.radarsatu88.sbs/sitemap.xml
